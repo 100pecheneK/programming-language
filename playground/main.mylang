@@ -1,0 +1,2 @@
+number = 2 + (2 * 2);
+LOG number / 2;
